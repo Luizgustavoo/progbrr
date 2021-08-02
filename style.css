@@ -3,9 +3,16 @@
 }
 
 #titulo {
-    color: crimson;
+    color: rgb(0, 100, 200);
 }
 
 .textoverde {
-    color: green;
+    color: white;
+}
+
+#paragrafos {
+    background-image: url(images/wall.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
