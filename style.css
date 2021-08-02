@@ -7,12 +7,41 @@
 }
 
 .textoverde {
-    color: white;
+    color: green;
 }
 
-#paragrafos {
-    background-image: url(images/wall.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
+#cm {
+    background-color: blue;
+    width: 1cm;
+    height: 1cm;
+}
+
+#mm {
+    background-color: coral;
+    width: 1mm;
+    height: 1mm;
+}
+
+#in {
+    background-color: blue;
+    width: 1in;
+    height: 1in;
+}
+
+#px {
+    background-color: coral;
+    width: 10px;
+    height: 10px;
+}
+
+#pt {
+    background-color: blue;
+    width: 10pt;
+    height: 10pt;
+}
+
+#pc {
+    background-color: coral;
+    width: 1pc;
+    height: 1pc;
 }
