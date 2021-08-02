@@ -45,3 +45,13 @@
     width: 1pc;
     height: 1pc;
 }
+
+.container {
+    width: 50vmax;
+    background-color: blue;
+}
+
+.inside {
+    width: 100%;
+    background-color: red;
+}
